@@ -44,7 +44,7 @@ Durante las pruebas de aceptación, se validaron las funcionalidades críticas d
 | 3   | Validar Cliente por Teléfono                                                         | El bot valida con la API de ISP Brain                                                                          | ✅ Correcto        |                         |
 | 4   | Informar datos al validarse por dni                                                   | El bot informa deuda de pago, plan y link de pago - se pregunta si desea opciones de administracion y soporte  | ✅ Correcto        |                         |
 | 5   | Informar datos al validarse por telefono                                              | El bot informa deuda de pago, plan y link de pago - se pregunta si desea opciones de administracion y soporte | ✅ Correcto        |                         |
-| 6   | Si api_connections_labels tiene INFOBOT notificar que hay falla validado por dni      | EL bot indica que hay un mantenimiento a su red, cierra el caso                                                |                    |                         |
+| 6   | Si api_connections_labels tiene INFOBOT notificar que hay falla validado por dni      | EL bot indica que hay un mantenimiento a su red, cierra el caso ejemplo dni: 33214158                          |                    |                         |
 | 7   | Si api_connections_labels tiene INFOBOT notificar que hay falla validado por telefono | EL bot indica que hay un mantenimiento a su red, cierra el caso                                                |                    |                         |
 |     |                                                                                       |                                                                                                                |                    |                         |
 
@@ -66,7 +66,7 @@ A continuación, se enumeran solicitudes o cambios reportados durante las prueba
 
 | N° | Descripción del requerimiento | Solicitado por | Fecha | Estado | Observaciones |
 | --- | ------------------------------ | -------------- | ----- | ------ | ------------- |
-| 1   |                                |                |       |        |               |
+| 1   |  aca solo archivo y creo un tiket en ispbrain. Lo cual no esta mal pero deberia derivar esto a soporte tecnico para lograr validad si se puede o no . NO ARCHIVAR                              |                |       |        |               |
 | 2   |                                |                |       |        |               |
 | 3   |                                |                |       |        |               |
 

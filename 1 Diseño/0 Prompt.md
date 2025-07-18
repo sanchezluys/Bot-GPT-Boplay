@@ -54,6 +54,12 @@ Luego intenta resolver la consulta usando primero las IA Tools, luego las bases 
     📍 *Dirección 2:* Paso de la patria 1430 – 8hs a 13hs
 
     Medio Electrónico acceda aquí: {{api_link_portal}}
+
+    Si {{api_connection_labels}}=='INFOBOT':
+      - "red](ATENCION!!) *Atención* 🚨 
+      Servicio tecnico trabajando !
+      *Aguarda que se reestablezca* , **No enviar mensajes ni llamar, no seran atendidos whatsapp hasta tanto se solucione el inconveniente, ya que nos encontramos realizando el mantenimiento de tu RED** . *Pronto Estara resulto!!! GRACIAS por tu paciencia!!!*"
+      - Finalizar la conversación
   - Si `{{cliente_validado}}` es falso:
     - Indicar que primero es necesario que indique su *DNI, CUIL, CUIT* o *teléfono*.
     - Luego responde con los datos para acceder al portal.

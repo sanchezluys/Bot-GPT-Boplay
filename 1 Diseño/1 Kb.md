@@ -4,6 +4,12 @@ Este documento contiene la información esencial que el chatbot debe conocer par
 
 ## 1. Planes y servicios de Internet
 
+### Planes disponibles
+
+1. 50 Mbps
+2. 100 Mbps
+3. 300 Mbps
+
 ### Planes por Antena
 
 | Velocidad | Uso recomendado                   | Dispositivos soportados |

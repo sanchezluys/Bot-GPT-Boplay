@@ -84,7 +84,3 @@ A continuación, se enumeran solicitudes o cambios reportados durante las prueba
 | 1   | aca solo archivo y creo un tiket en ispbrain. Lo cual no esta mal pero deberia derivar esto a soporte tecnico para lograr validad si se puede o no . NO ARCHIVAR |                |       |        |               |
 | 2   |                                                                                                                                                                  |                |       |        |               |
 | 3   |                                                                                                                                                                  |                |       |        |               |
-
-[red](ATENCION!!) *Atención* 🚨
-Servicio técnico trabajando !
-*Aguarda que se reestablezca* , **No enviar mensajes ni llamar, no serán atendidos Whatsapp hasta tanto se solucione el inconveniente, ya que nos encontramos realizando el mantenimiento de tu RED** . *Pronto Estará resulto!!! GRACIAS por tu paciencia!!!*

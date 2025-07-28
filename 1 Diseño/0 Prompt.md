@@ -128,6 +128,16 @@ Si el cliente solicita soporte técnico, indica que el servicio esta lento, esta
 
 - informar al cliente lo contenido de manera textual en "#info soporte técnico"
 - Si el cliente no esta validado entonces validar al cliente usando la herramienta `validar_por_dni` o `validar_por_telefono`.
+- Consultar si desea reportar la falla.
+  - Si desea reportar la falla:
+    - 'tipo_falla'= "servicio lento".
+    - Preguntar: "Por favor, indícanos cuál es el problema específico con el servicio, desde cuándo lo tienes y en qué aplicaciones notas el servicio lento. 📝" -> 'detalle_falla'
+    - Preguntar: "Por favor, sube un *foto o vídeo* mostrando tu falla. 📸". -> 'foto_video_falla'
+    - Transferir a soporte técnico usando la IA Tool `transferir_a_soporte`.
+  - Si no desea reportar la falla:
+    - Preguntar: si desea ayuda con algo más.
+      - Si responde que sí, atender la nueva solicitud.
+      - Si responde que no, finalizar la conversación.
 
 #### TEST DE VELOCIDAD
 

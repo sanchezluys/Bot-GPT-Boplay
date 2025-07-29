@@ -2,37 +2,18 @@
 
 Este documento contiene la información esencial que el chatbot debe conocer para responder consultas relacionadas con servicios, precios, ubicaciones, horarios y promociones de Boplay
 
-## 1. Planes y servicios de Internet
+## Planes disponibles
 
-### Planes disponibles
+- 50 Mbps
+- 100 Mbps
+- 300 Mbps
 
-1. 50 Mbps
-2. 100 Mbps
-3. 300 Mbps
-
-## 3. Precios de Instalación
-
-### Fibra Óptica
-
-| Planes             | ID | Cuotas posibles        |
-| ------------------ | -- | ---------------------- |
-| 60, 100 y 300 Mbps | 20 | 2 cuotas (4% interés) |
-| 600 Mbps           | 23 | 2 o 3 cuotas (8%)      |
-
-### Antena
-
-| Planes           | ID | Cuotas posibles        |
-| ---------------- | -- | ---------------------- |
-| Todos los planes | 16 | Hasta 2 cuotas (1/15%) |
-
-> ⚠️ No mencionar porcentajes de interés al cliente. Solo mostrar precios finales calculados.
-
-## 4. Requisitos de Contratación
+## Requisitos de Contratación
 
 - Fotocopia de DNI
 - Fotocopia de recibo de sueldo, pago de servicio a su nombre o garantía
 
-## 5. Horario de Atención
+## Horario de Atención
 
 | Días               | Horario                         |
 | ------------------- | ------------------------------- |
@@ -40,16 +21,16 @@ Este documento contiene la información esencial que el chatbot debe conocer par
 | Sábados            | 08:00 – 13:00                  |
 | Domingos y Feriados | 08:00 – 13:00 / 15:00 – 18:00 |
 
-## 6. Dirección de la Empresa
+## Dirección de la Empresa
 
 - Calle ejemplo, # ejemplo, en ciudad ejemplo
 
-## 7. Promociones y Referidos
+## Promociones y Referidos
 
 - **Programa de referidos:** Trae nuevos clientes y gana meses gratis.
 - Consultar con un agente para registrar referidos.
 
-## 8. Equipos y Actualizaciones
+## Equipos y Actualizaciones
 
 | Equipo                | ID | Descripción                 |
 | --------------------- | -- | ---------------------------- |
@@ -59,17 +40,17 @@ Este documento contiene la información esencial que el chatbot debe conocer par
 | Actualización Huawei | 21 | Servicio de cambio de equipo |
 | Actualización Wifi 6 | 22 | Servicio de cambio de equipo |
 
-## 9. Reconexión
+## Reconexión
 
 - Incluye pago de **1 mes de servicio + proporcional del mes actual**
 
-## 10. Guías Visuales
+## Guías Visuales
 
 - **Fibra Óptica:**![Guía Fibra](https://imagen.jpeg)
 - **Antena:**
   ![Guía Antena](https://imagen_2.jpeg)
 
-## 11. IDs y Códigos Relevantes
+## IDs y Códigos Relevantes
 
 | Concepto                           | ID |
 | ---------------------------------- | -- |
@@ -82,7 +63,7 @@ Este documento contiene la información esencial que el chatbot debe conocer par
 | Actualización a Huawei            | 21 |
 | Actualización a Wifi 6            | 22 |
 
-## 12. Categorías de Tickets en IspBrain
+## Categorías de Tickets en IspBrain
 
 | Categoría                 | Código |
 | -------------------------- | ------- |
@@ -90,19 +71,19 @@ Este documento contiene la información esencial que el chatbot debe conocer par
 | Instalación Fibra Óptica | 2       |
 | Instalación Antena        | 12      |
 
-## 13. Portal de Clientes
+## Portal de Clientes
 
 - Solo disponible para clientes con factura A/B/C.
 - URL: `{{portal_url}}`
 - Acceso mediante credenciales proporcionadas por el sistema.
 
-## 14. Costos por Casos Especiales
+## Costos por Casos Especiales
 
 - **Clientes antiguos que quieren volver:** Aplica reconexión + proporcional del mes.
 - **Cambio de plan:** Validar ubicación y ofrecer opciones disponibles.
 - **Soporte técnico sin costo:** Excepto daños causados por manipulación incorrecta.
 
-## 15. Políticas del servicio
+## Políticas del servicio
 
 🔹 *Instalación y Pago:* Para solicitar cualquier servicio de *Boplay*, la instalación puede abonarse de dos maneras:
 
@@ -115,7 +96,7 @@ Este documento contiene la información esencial que el chatbot debe conocer par
 
 🔸 *Equipos en Comodato:* Todos los equipos entregados quedan en comodato. Esto significa que, al rescindir de nuestros servicios, deben ser devueltos a la empresa.
 
-## 16. Mapas y Zonas de cobertura
+## Mapas y Zonas de cobertura
 
 Nota: esta información es general y puede no reflejar la cobertura exacta en todas las áreas. Para consultas específicas, recomendamos contactar a un agente de ventas.
 
@@ -125,7 +106,7 @@ Zona 1:
 Zona 2:
 ![Mapa de cobertura](https://mapa_2.png)
 
-## 17. Datos para abonar, datos bancarios
+## Datos para abonar, datos bancarios
 
 Estos son los datos Bancarios donde puedes abonar el servicio de forma electrónica:
 
@@ -135,7 +116,7 @@ Estos son los datos Bancarios donde puedes abonar el servicio de forma electrón
 
 Si aún no tienes los datos para abonar, puedes elegir la opción de "*Hablar con el personal administrativo*".
 
-## 18. Dias Feriados 2025
+## Dias Feriados 2025
 
 | Fecha      | Tipo        | Nombre                                                      |
 | ---------- | ----------- | ----------------------------------------------------------- |

@@ -8,6 +8,34 @@ Este documento contiene la información esencial que el chatbot debe conocer par
 - 100 Mbps
 - 300 Mbps
 
+## Oferta de planes
+
+"""
+📢 ¡*Grandes Ofertas en {{empresa}}*! 📢
+
+Aprovecha nuestras ofertas exclusivas y disfruta de la mejor conexión a internet con estos increíbles planes:
+
+*Plan Básico* 🌐
+- Velocidad: 50 Mbps
+- Ideal para navegación y streaming
+- Precio: $15000/mes 🔥
+
+*Plan Avanzado* 🚀
+- Velocidad: 100 Mbps
+- Perfecto para familias y streaming HD
+- Precio: $21500/mes 🎉
+
+¡*Promo Especial - INSTALACION GRATIS*! 🌟
+- Velocidad: 300 Mbps
+- IDEAL PARA JUEGOS Y GRANDES FAMILIAS Streaming 4K
+- Promo mismo precio hasta enero 2026
+- Precio: $25500/mes 🎈
+
+🔔 *PRECIOS DE INSTALACION REGULAR $15000 + ABONO O 2 cuotas de $7500 + ABONO*
+
+En *{{empresa}}*, estamos comprometidos con ofrecerte la mejor experiencia de internet. ¡Descubre lo que podemos hacer por ti!
+"""
+
 ## Requisitos de Contratación
 
 - Fotocopia de DNI

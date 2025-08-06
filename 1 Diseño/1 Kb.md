@@ -80,6 +80,26 @@ Zona 1:
 Zona 2:
 ![Mapa de cobertura](https://mapa_2.png)
 
+## Productos y artículos disponibles
+
+| Producto                |Nombres con error ortográfico o variaciones |
+| ----------------------- | ------------------------------------------ |
+| Router                  | ruter, ruter, rauter, rauter wifi, router wifi |
+| Modem                   | moden, modem wifi, moden wifi               |
+| Repetidor WiFi          |                                             |
+| Extensor de señal WiFi  | estensor, estensor de señal                 |
+| Amplificador de señal   |                                             |
+| Convertidor Smart TV    | conbertidor, adaptador de tv                |
+| TV Box Android          | tv bos, tb vos,tvbox                        |
+| Decodificador de TV     | deco                                        |
+| Cable de red Ethernet   | cavle                                       |
+| Fuente de poder         |                                             |
+| Fuentes de alimentación | el enchufe                                  |
+| Cargador                |                                             |
+
+Nota: toma en cuenta que el cliente puede escribir el nombre del producto con errores ortográficos o variaciones en el nombre.
+
+
 ## Dias Feriados 2025
 
 | Fecha      | Tipo        | Nombre                                                      |

@@ -51,7 +51,6 @@ En *{{empresa}}*, estamos comprometidos con ofrecerte la mejor experiencia de in
 | Sábados             | 08:30 – 11:00                 |
 | Domingos y Feriados | 10:00 – 12:00 |
 
-
 ## Guías Visuales
 
 - **Fibra Óptica:**![Guía Fibra](https://imagen.jpeg)
@@ -64,7 +63,7 @@ En *{{empresa}}*, estamos comprometidos con ofrecerte la mejor experiencia de in
 | Instalación Fibra Óptica | 2       |
 | Instalación Antena        | 12      |
 
-## Portal de Clientes
+## DATOS PARA ACCEDER AL PORTAL
 
 - disponible para clientes con factura A/B/C.
 - URL: `{{portal_url}}`
@@ -82,10 +81,10 @@ Zona 2:
 
 ## Productos y artículos disponibles
 
-| Producto                |Nombres con error ortográfico o variaciones |
-| ----------------------- | ------------------------------------------ |
-| Router                  | ruter, ruter, rauter, rauter wifi, router wifi |
-| Modem                   | moden, modem wifi, moden wifi               |
+| Producto                |Nombres con error ortográfico o variaciones  |
+| ----------------------- | ------------------------------------------  |
+| Router                  | ruter, ruter, rauter, rauter wifi           |
+| Modem                   | moden, moden wifi                           |
 | Repetidor WiFi          |                                             |
 | Extensor de señal WiFi  | estensor, estensor de señal                 |
 | Amplificador de señal   |                                             |
@@ -98,7 +97,6 @@ Zona 2:
 | Cargador                |                                             |
 
 Nota: toma en cuenta que el cliente puede escribir el nombre del producto con errores ortográficos o variaciones en el nombre.
-
 
 ## Dias Feriados 2025
 
